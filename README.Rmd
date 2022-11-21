@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# bartik
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+The goal of bartik is to do Bartik instrumental variable estimations and simply test their validity.
+
+For now I plan to use this package to do my literature review on the Bartik instrument, what are the limitations, how to test its validity and learn to do a package from scratch.
+
+**The current code cannot be used.**
+
+<!-- ## Installation -->
+
+<!-- You can install the development version of bartik like so: -->
+
+<!-- ``` {r} -->
+
+<!-- devtools::install_github("MaelAstruc/bartik") -->
+
+<!-- ``` -->
+
+## Example
+
+For now, no example is available.
